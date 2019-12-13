@@ -1,0 +1,26 @@
+{
+  "name": "black-and-white",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "buffer": "^5.4.3",
+    "canvas": "^2.6.0",
+    "color": "^3.1.2",
+    "colors": "^1.4.0",
+    "get-image-colors": "^2.0.0",
+    "gm": "^1.23.1",
+    "image-pixels": "^2.2.2",
+    "jimp": "^0.8.5",
+    "pngjs": "^3.4.0",
+    "remove.bg": "^1.2.0",
+    "replace-color": "^2.1.0",
+    "request": "^2.88.0",
+    "sharp": "^0.23.2"
+  }
+}
